@@ -16,14 +16,14 @@ release = "0.1"
 
 extensions = [
     "myst_parser",
-    "nbsphinx",
+    # "nbsphinx",
+    "sphinx.ext.duration",
     "sphinx.ext.autosectionlabel",
     "sphinx.ext.autodoc",
-    "sphinx.ext.duration",
 ]
 
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+exclude_patterns = []
 
 
 # -- Options for HTML output -------------------------------------------------

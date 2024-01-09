@@ -5,7 +5,7 @@
 Coding A Fitness Tracking: Exploring the Possibilities of Context-Aware Applications for Strenght training.
 
 ## Overview
-This project is a reimplementation of [Dave Ebbelaar's](https://www.linkedin.com/in/daveebbelaar/) Full Machine Learning Project. It entails analysing sensor data and using ML model to predict a workout type and to count repetitions. [See play list here](https://www.youtube.com/playlist?list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K) 
+This project is a reimplementation of [Dave Ebbelaar's](https://www.linkedin.com/in/daveebbelaar/) Full Machine Learning Project. The goal is to explore, build, and evaluate models that can, just like human personal trainers, track exercises, count repetitions, and detect improper form. [See play list here](https://www.youtube.com/playlist?list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K) 
 
 
 ## Table of Contents

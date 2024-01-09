@@ -25,6 +25,6 @@ dependencies:
       - jupyter-client==7.4.7
       - jupyter-core==5.1.0
       - matplotlib==3.6.2
-      - "myst-parser",
-      - "furo",
-      - "nbsphinx"
+      - rst-to-myst[sphinx]   # rst2myst convert docs\**\*.rst
+      - furo
+      - nbsphinx
