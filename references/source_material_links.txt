@@ -6,3 +6,15 @@ https://docs.datalumina.io/s1eFpcdtbvRTMb
 
 Part3 -- Data Visualization using matplotlib
 https://docs.datalumina.io/s1eFpcdtbvRTMb
+
+Part4 -- Detecting Outliers in Sensor Data
+https://docs.datalumina.io/jD1BSJCAPYKSwh
+
+Part5 -- Feature Engineering
+https://docs.datalumina.io/tjGyJjXxfpChiL
+
+Part6 -- Predictive Modelling
+https://docs.datalumina.io/GQBbHfi4hJA0FV
+
+Part7 -- Counting Repetitions
+https://docs.datalumina.io/etR0bumOqKG751
